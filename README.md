@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I am a highly motivated and results-oriented **Backend Developer** with a passion for building robust, scalable web applications and solving complex problems.  
+I am a highly motivated and results-oriented **Software Engineer** with a passion for building robust, scalable web applications and solving complex problems.  
 With over two years of experience, I specialize in Python, backend frameworks like **FastAPI** and **Flask**, and designing efficient database systems.
 
 I thrive on architecting and implementing solutions from the ground up, turning complex business requirements into high-quality, maintainable code.
