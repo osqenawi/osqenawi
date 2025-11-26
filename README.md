@@ -42,17 +42,8 @@ I thrive on architecting and implementing solutions from the ground up, turning 
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-</p>
-
-<p align="center">
-  ![Commits](https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge)
-  ![Repositories](https://img.shields.io/badge/Repos-10+-blue?style=for-the-badge)
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=osqenawi&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osqenawi&layout=compact&langs_count=8&theme=dracula"/>
 
 ---
 
