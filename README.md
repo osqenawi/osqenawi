@@ -43,7 +43,7 @@ I thrive on architecting and implementing solutions from the ground up, turning 
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osqenawi&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osqenawi&count_private=true&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osqenawi&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
